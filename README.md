@@ -2,7 +2,7 @@
 
 Praktek Program Komputer Python 2021
 
-##Daftar Isi
+Daftar Isi
 
-###1. Latihan Pertama
+1. Latihan Pertama
 
